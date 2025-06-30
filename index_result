@@ -1,3 +1,4 @@
+# Function starts
 def sendmail(number):
     if number == 1685351001:
         email = "kasimca44@gmail.com"
